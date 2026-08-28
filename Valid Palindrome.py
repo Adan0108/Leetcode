@@ -1,4 +1,4 @@
-# Valid Palindrome
+# Valid Palindrome (STRING PROBLEM)
 #
 # Given a string s, return True if it is a palindrome.
 # Otherwise, return False.

@@ -1,4 +1,4 @@
-# Valid Anagram
+# Valid Anagram (HASHMAP PROBLEM)
 #
 # Given two strings s and t, return True if the two strings are
 # anagrams of each other. Otherwise, return False.

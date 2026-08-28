@@ -1,4 +1,4 @@
-# Two Sum
+# Two Sum (HASHMAP PROBLEM)
 #
 # Given an array of integers nums and an integer target, return
 # the indices i and j such that:

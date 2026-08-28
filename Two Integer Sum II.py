@@ -1,4 +1,5 @@
-# Two Integer Sum II
+# Two Integer Sum II (2 Pointer Problem)
+
 #
 # Given an integer array sorted in non-decreasing order, find two numbers
 # whose sum equals the target.

@@ -1,4 +1,4 @@
-# Encode and Decode Strings
+# Encode and Decode Strings (ARRAY PROBLEM)
 #
 # Design an algorithm to encode a list of strings into a single
 # string. The encoded string is sent over a network and decoded
@@ -35,7 +35,7 @@
 # Follow-up:
 # Create a generalized algorithm that works with any possible
 # set of characters.
-#
+# 
 # Recommended complexity:
 # Time: O(m) for both encode() and decode()
 # Space: O(m + n)

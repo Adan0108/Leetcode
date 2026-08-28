@@ -1,5 +1,5 @@
 # Contains Duplicate
-#
+# SET PROBLEM
 # Given an integer array nums, return True if any value appears
 # more than once in the array. Otherwise, return False.
 #

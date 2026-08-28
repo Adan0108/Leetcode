@@ -1,4 +1,5 @@
-# Valid Sudoku
+# Valid Sudoku (HASHMAP PROBLEM)
+
 #
 # Given a 9 x 9 Sudoku board, return True if the board is valid.
 # Otherwise, return False.

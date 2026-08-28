@@ -1,4 +1,5 @@
-# Products of Array Except Self
+# Products of Array Except Self (ARRAY PROBLEM)
+
 #
 # Given an integer array nums, return an array output where
 # output[i] is the product of every element in nums except nums[i].

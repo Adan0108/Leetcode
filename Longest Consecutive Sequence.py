@@ -1,4 +1,4 @@
-# Longest Consecutive Sequence
+# Longest Consecutive Sequence (SET PROBLEM)
 #
 # Given an integer array nums, return the length of the longest
 # consecutive sequence that can be formed.

@@ -1,4 +1,4 @@
-# Group Anagrams
+# Group Anagrams (HASHMAP PROBLEM)
 #
 # Given an array of strings strs, group all anagrams together
 # into sublists. The output can be returned in any order.
